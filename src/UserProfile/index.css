@@ -1,0 +1,40 @@
+.list-container{
+    list-style-type:none;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.image{
+    height:50px;
+    width:50px;
+    border-radius:25px;
+    margin:10px;
+}
+
+.profile-container{
+    text-align:left;
+}
+
+.name{
+    font-size:15px;
+}
+
+.role{
+    font-size:10px;
+}
+
+.delete-container{
+    margin:10px;
+}
+
+.button{
+    border-width:0px;
+}
+
+.delete-image{
+    height:20px;
+    width:20px;
+    background-color:#ffffff;
+}
